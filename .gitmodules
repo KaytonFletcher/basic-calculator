@@ -1,0 +1,6 @@
+[submodule "ocaml-bc"]
+	path = ocaml-bc
+	url = https://github.com/KaytonFletcher/ocaml-bc.git
+[submodule "inline-bc"]
+	path = inline-bc
+	url = https://github.com/KaytonFletcher/inline-bc.git
