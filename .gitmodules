@@ -4,3 +4,6 @@
 [submodule "inline-bc"]
 	path = inline-bc
 	url = https://github.com/KaytonFletcher/inline-bc.git
+[submodule "visitor-bc"]
+	path = visitor-bc
+	url = https://github.com/KaytonFletcher/visitor-bc.git
